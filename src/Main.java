@@ -5,5 +5,6 @@ public class Main {
 
         System.out.print("hello");
         System.out.println(" world");
+        System.out.println(" java 12");
     }
 }
